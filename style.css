@@ -1,0 +1,82 @@
+ body{
+    background-color: #FFF3E2;
+ }
+ .foto{
+    border-radius: 50%;
+    width: 180px;
+    height: 180px;
+    margin-left: 40px;
+
+ }
+
+
+ .box-flex{
+    margin: 20px;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between; 
+ }
+
+ .box-flex div{
+    margin: 10px;
+    padding: 5px;
+ }
+
+ .box2{
+    width: 700px;
+ }
+
+
+ .me{
+    border: 2px solid #E74646;
+    border-radius: 10px;
+    background-color: #FFE5CA;
+ } 
+
+ .isi{
+    padding: 10px 20px;
+ }
+
+ .experience{
+   padding: 10px 20px;
+   font-weight: bolder;
+   font-size: 22px;
+ }
+
+ .sosmed{
+    display: block;
+ }
+
+ .wa{
+    width: 35px;
+    height: 35px;
+    margin-top: 50px;
+ }
+
+ .ig{
+    width: 25px;
+    height: 25px;
+    margin-top: 20px;
+ }
+
+ .email{
+    width: 25px;
+    height: 25px;
+    margin-top: 20px;
+ }
+
+ span{
+    font-size: 23px; 
+    line-height: 5px;
+    margin-left: 2px;
+    
+ }
+
+ .text{
+    font-size: 23px;
+ }
+
+ .list{
+   margin-left: 20px;
+ }
+ 
